@@ -1,0 +1,6 @@
+{
+  "name": "Catur Multiplayer Online",
+  "description": "Game catur online multiplayer modern dengan sistem kode room, kontrol start pertandingan, leaderboard skor real-time, dan integrasi database Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
